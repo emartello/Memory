@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/06/09 21:07:32.000.224,=C:\Users\Élvis\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/06/09 21:43:10.000.696,=C:\Users\Élvis\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/06/09 21:43:41.000.761,C:\Users\Élvis\OneDrive\Faculdade\5º Semestre\Arquitetura e Organização de Computadores\MEMORIAS\PROGRAMA\uFrmPrincipal.pas=C:\Users\Élvis\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/06/09 21:43:41.000.761,C:\Users\Élvis\OneDrive\Faculdade\5º Semestre\Arquitetura e Organização de Computadores\MEMORIAS\PROGRAMA\uFrmPrincipal.dfm=C:\Users\Élvis\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2017/06/09 21:43:55.000.746,C:\Users\Élvis\OneDrive\Faculdade\5º Semestre\Arquitetura e Organização de Computadores\MEMORIAS\PROGRAMA\Memorias.dproj=C:\Users\Élvis\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2017/06/09 21:44:16.000.194,=C:\Users\Élvis\OneDrive\Faculdade\5º Semestre\Arquitetura e Organização de Computadores\MEMORIAS\PROGRAMA\Unit1.pas</Transaction>
+    <Transaction>2017/06/09 21:44:31.000.167,C:\Users\Élvis\OneDrive\Faculdade\5º Semestre\Arquitetura e Organização de Computadores\MEMORIAS\PROGRAMA\uDM.dfm=C:\Users\Élvis\OneDrive\Faculdade\5º Semestre\Arquitetura e Organização de Computadores\MEMORIAS\PROGRAMA\Unit1.dfm</Transaction>
+    <Transaction>2017/06/09 21:44:31.000.167,C:\Users\Élvis\OneDrive\Faculdade\5º Semestre\Arquitetura e Organização de Computadores\MEMORIAS\PROGRAMA\uDM.pas=C:\Users\Élvis\OneDrive\Faculdade\5º Semestre\Arquitetura e Organização de Computadores\MEMORIAS\PROGRAMA\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
